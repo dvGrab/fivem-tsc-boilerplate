@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "target": "es2016",
+    "module": "commonjs",
+    
+    "types": [
+      "@citizenfx/client",
+      "@types/node"
+    ],
+    
+    "allowJs": true,
+    "outDir": "../../../client",
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+
+    "strict": false,
+    "noImplicitAny": false,
+    "skipLibCheck": true
+  }
+}
